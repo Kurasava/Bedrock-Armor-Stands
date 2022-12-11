@@ -1,0 +1,8 @@
+#Если true, зелье невидимости брошенное в арморстенд делает его невидимым навсегда. Снять эффект невидимости можно взрывной бутылочкой воды
+#If true, an invisibility potion thrown into an armorstand makes it permanently invisible. You can remove the invisibility effect with an explosive bottle of water
+usePotionOfInvisibility: false
+
+#Если true, редстоун будет менять позы в зависимости от силы сигнала редстоуна (как в Bedrock Edititon).
+#If true, the redstone will change poses depending on the strength of the redstone signal (similar to Bedrock Edititon).
+useRedstoneForChangePose: true
+

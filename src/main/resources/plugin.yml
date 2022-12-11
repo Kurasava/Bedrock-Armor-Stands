@@ -1,0 +1,10 @@
+name: BedrockArmorStands
+version: '${project.version}'
+main: kurasava.Main
+api-version: 1.19
+authors: [ Kurasava ]
+softdepend: [WorldGuard]
+commands:
+  reloadConfig:
+    description: Relaod config
+    usage: /reloadConfig
